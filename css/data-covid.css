@@ -1,0 +1,22 @@
+.container-fluid {
+    padding-left: 6rem;
+    padding-right: 6rem;
+}
+/* NAVBAR */
+
+a span {
+    margin-left: 0.15rem;
+    font-size: 1.5rem;
+    vertical-align: middle; 
+    font-weight: bold;
+    color: #1e1340;
+}
+
+.nav-link {
+    font-weight: 600;
+    color: #1e1340;
+}
+
+.nav-link:hover {
+    color: #fdd36a;
+}
